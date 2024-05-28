@@ -1,10 +1,5 @@
-
-
-
-
-
 const nextConfig = {
-  distDir: 'build',
+  distDir: 'next build',
   async rewrites() {
     return [
       {
