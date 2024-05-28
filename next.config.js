@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-  distDir: 'next build',
+  distDir: 'build',
   async rewrites() {
     return [
       {
